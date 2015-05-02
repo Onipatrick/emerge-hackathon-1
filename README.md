@@ -14,6 +14,7 @@ Teams
 -----
 
 - [Amazing Project](#) by People With Computers
+- Team Phelmus
 
 
 
@@ -30,6 +31,7 @@ just add a line under the *Teams* heading like this one:
 
 ```md
 - [Your Project Name](https://github.com/you/your-project) by Your Team
+- [Event View] (https://github.com/Onipatrick/teamphelmus) by Phelmus
 ```
 
 You need to put your **project's name** inside the square brackets,
